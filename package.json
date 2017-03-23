@@ -1,0 +1,28 @@
+{
+  "name": "markql",
+  "version": "0.0.1",
+  "description": "A markdown loving, flat-file, headless cms with support for graphql.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motleydev/markql.git"
+  },
+  "keywords": [
+    "graphql",
+    "markdown",
+    "headless",
+    "cms",
+    "static",
+    "flat-file",
+    "flatfile"
+  ],
+  "author": "Motleydev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motleydev/markql/issues"
+  },
+  "homepage": "https://github.com/motleydev/markql#readme"
+}
